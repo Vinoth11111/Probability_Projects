@@ -1,4 +1,4 @@
-<img width="576" height="455" alt="image" src="https://github.com/user-attachments/assets/29d2305e-d694-4f66-ab02-9627c876a022" />Law of Large Numbers – Simulation in Python
+Law of Large Numbers – Simulation in Python
 Introduction
 
 The Law of Large Numbers (LLN) states that as the sample size increases, the sample mean converges to the true population mean.
@@ -47,6 +47,8 @@ plt.show()
 Visualization
 
 Figure: Probability Estimates with Error Bars
+
+<img width="576" height="455" alt="image" src="https://github.com/user-attachments/assets/29d2305e-d694-4f66-ab02-9627c876a022" />
 
 Small samples → wide variability (big error bars).
 
